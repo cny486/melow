@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "b06056fd5be4f8c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "557f0ed34ba3e4a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f180936cf2e7fde0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "文档/cn0359_translated.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cn0359_translated"
+            }
+          },
+          {
+            "id": "55e1851102344099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "网站设计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "网站设计"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6ca4ae4e1552d96c",
+    "type": "split",
+    "children": [
+      {
+        "id": "89932bd766a9d77f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "408e3ec6e29671e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "52e969a74aac9940",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8d54468175658316",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cf214fea5a640497",
+    "type": "split",
+    "children": [
+      {
+        "id": "261579807e726be8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc5df9a27f766f7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "h神观察日记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "h神观察日记 的反向链接列表"
+            }
+          },
+          {
+            "id": "5261752a085bc395",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "h神观察日记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "h神观察日记 的出链列表"
+            }
+          },
+          {
+            "id": "2386d43f30a4d807",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1d75f1180d533b05",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "a1782ee7b777c5ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "h神观察日记.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "h神观察日记 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "55e1851102344099",
+  "lastOpenFiles": [
+    "网站设计.md",
+    "文档/cn0359_translated.md",
+    "fully-automatic-self-calibrated-conductivity-measu_translated.md",
+    "文档/fully-automatic-self-calibrated-conductivity-measu_translated.md",
+    "文档",
+    "新建文件夹",
+    "worklist20260509.md",
+    "worklist20260505.md",
+    "inferno 思路道具备忘录.md",
+    "D50DED2665465558AA0C1FB531D187E8.png",
+    "1aad4d60e99de15496b58e5b19932183.jpg",
+    "前半段人生——发源地.md",
+    "标题很重要.md",
+    "欢迎.md",
+    "未命名.md",
+    "h神观察日记.md"
+  ]
+}
