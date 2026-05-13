@@ -5,7 +5,7 @@ for /f "tokens=1-3 delims=/ " %%a in ("%date%") do (
 )
 
 for /f "tokens=1-2 delims=: " %%a in ("%time%") do (
-    set t=%%a-%%b
+    set t=%%a:%%b
 )
 
 git add .
