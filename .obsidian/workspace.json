@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4d8ef48b371b387e",
+            "id": "244d8cd0f46fb2c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "worklist/worklist20260512.md",
+                "file": "文档/cn0359_translated.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "worklist20260512"
+              "title": "cn0359_translated"
             }
           }
         ]
@@ -183,10 +183,14 @@
       "bases:新建数据库": false
     }
   },
-  "active": "4d8ef48b371b387e",
+  "active": "244d8cd0f46fb2c8",
   "lastOpenFiles": [
-    "持续精进.md",
+    "worklist/worklist20260513.md",
+    "文档/cn0359_translated.md",
+    "worklist/worklist20260509.md",
     "worklist/worklist20260512.md",
+    "文档/fully-automatic-self-calibrated-conductivity-measu_translated.md",
+    "持续精进.md",
     "worklist",
     "inferno 思路道具备忘录.md",
     "网站设计.md",
@@ -196,12 +200,9 @@
     "图片/D50DED2665465558AA0C1FB531D187E8.png",
     "图片",
     "图片/1aad4d60e99de15496b58e5b19932183.jpg",
-    "文档/cn0359_translated.md",
     "fully-automatic-self-calibrated-conductivity-measu_translated.md",
-    "文档/fully-automatic-self-calibrated-conductivity-measu_translated.md",
     "文档",
     "新建文件夹",
-    "worklist/worklist20260509.md",
     "worklist/worklist20260505.md",
     "h神观察日记.md"
   ]
